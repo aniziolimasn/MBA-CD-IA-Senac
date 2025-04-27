@@ -7,9 +7,9 @@ Este repositório reúne os projetos que desenvolvi ao longo do curso, aplicando
 ## 📚 Disciplinas e Projetos
 
 - [Estatística e Análise de Dados](./Estatística%20e%20Análise%20de%20Dados)
+- [Banco de Dados](./Banco%20de%20Dados)
 - [Machine Learning](./Machine_Learning)
 - [Deep Learning](./Deep_Learning)
-- [Banco de Dados](./Banco_de_Dados)
 - [Big Data](./BigData)
 - [Python para Análise de Dados](./Python_Analise_Dados)
 - [Visualização de Dados](./Visualizacao_Dados)
