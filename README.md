@@ -11,7 +11,7 @@ Este repositório reúne os projetos que desenvolvi ao longo do curso, aplicando
 - [Machine Learning](./Machine%20Learning)
 - [Deep Learning](./Deep%20Learning)
 - [Big Data](./BigData)
-- [Python para Análise de Dados](./Python_Analise_Dados)
+- [Python para Análise de Dados](./Linguagem%20Python%20para%20análise%20de%20dados)
 - [Visualização de Dados](./Visualização%20de%20Dados)
 
 ---
