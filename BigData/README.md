@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Para executar a aplicação, utilize o seguinte comando:
 
 ```
-streamlit run app_big_date.py
+streamlit run app_big_data.py
 ```
 
 Certifique-se de que as variáveis de conexão com o MongoDB estão configuradas corretamente no código, garantindo a segurança das credenciais.

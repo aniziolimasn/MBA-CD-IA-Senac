@@ -1,5 +1,5 @@
 """
-Aplicação Big Date: Coleta, armazena e exibe cotações de moedas em tempo real.
+Aplicação Big Data: Coleta, armazena e exibe cotações de moedas em tempo real.
 - Extrai dados de uma API de cotações.
 - Armazena no MongoDB Atlas.
 - Exibe dashboard interativo com Streamlit.
